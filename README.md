@@ -1,6 +1,6 @@
 # C-Text-Based-Adventure
 
-##Specs
+## Specs
 
 ### 3-4 Journey's our hero will go on, all starting in the central "home". 
 
