@@ -27,3 +27,25 @@ To go to each place and enter each class we will give a input within the Main wh
 
 ## Scripts
 
+In the past
+
+
+On the most daring adventure yet from earth our hero named (input) sets off on a journey using the most advanced technology known to mankind in a 32 man mission. Our hero grabs his cup and watches through the window as his ship leaves earth rapidly behind to travel to the center of the Universe. 
+
+
+In the future
+
+Through 30 years through a grueling journey to the center of the universe you are only 30 minutes away. You prepare for one last moment but suddenly the ship lurches and your colleague yells that the ship is out of control. The ship accelerates and you get slammed into the couch feeling your bones creek while your first mate is eerily silent. The ship accelerates again and it all goes black.
+
+You wake up in near darkness with only the emergency life support system on. You try to look out of the glass but it is covered in metal clearly showing that it broke. You go to find your partner but all you can find is blood next to the window. Suddenly a light appears and the ship slowly fades away. Within complete darkness now blue letters appear.
+
+Victorian
+1900s 
+Futuristic
+Elder Scrolls
+
+You pick (input) and suddenly everything goes black.
+ 
+
+Wormhole Transition to Dimension: While you go through the wormholes into other dimensions and places, you only fall out of your regular descent. After choosing your destination, you are granted with that location; Only you wake up in that place. 
+
