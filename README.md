@@ -12,4 +12,8 @@
 
 ![overview](https://github.com/DaCandyCorn/C-Text-Based-Adventure/blob/main/images/overview.png)
 
+The input you have to start with a certain line such as terminus that is to be decided
+
+to go back one you do cd.. and to go back to the beginning you enter cd home
+
 ## Scripts
