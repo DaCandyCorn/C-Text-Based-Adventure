@@ -13,7 +13,7 @@
 
 ## Overview
 
-![overview](https://github.com/DaCandyCorn/C-Text-Based-Adventure/blob/main/images/overviewUpdated.png)
+![overview](https://github.com/DaCandyCorn/C-Text-Based-Adventure/blob/main/images/overview1stDraft.png)
 
 ###### Nash Hale
 
