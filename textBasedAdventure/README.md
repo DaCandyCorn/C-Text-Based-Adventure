@@ -8,6 +8,9 @@
 
 ### Use command line to give the user the ability to go back in case they missed something
 
+## Roles
+#### Carson(Project Manager),Park
+
 ## Overview
 
 ![overview](https://github.com/DaCandyCorn/C-Text-Based-Adventure/blob/main/images/overview.png)
