@@ -12,9 +12,15 @@
 
 ![overview](https://github.com/DaCandyCorn/C-Text-Based-Adventure/blob/main/images/overview.png)
 
+###### Nash Hale
+
 The input you have to start with a certain line such as terminus that is to be decided
 
 to go back one you do cd.. and to go back to the beginning you enter cd home
+
+Classes: We will have classes for each place and we may do more classes if the stories become complicated. We will have Victorian class, a Orthodox priest in europe class, a futruistic class, and a fantasy type era class with more classes for each story if needed. 
+
+To go to each place and enter each class we will give a input within the Main which will enter each class and within main we will do the story for the adventure. 
 
 ## Scripts
 
