@@ -9,7 +9,7 @@
 ### Use command line to give the user the ability to go back in case they missed something
 
 ## Roles
-#### Carson(Project Manager),Park
+#### Carson(Project Manager), Park(Interface/Programmer), Jax(Tester/Script/Developer), Nash(Designer/Developer), Aiden(MultiMedia Creator), Jesse(Tester/Developer)
 
 ## Overview
 
