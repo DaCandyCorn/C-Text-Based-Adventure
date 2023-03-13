@@ -25,6 +25,10 @@ Classes: We will have classes for each place and we may do more classes if the s
 
 To go to each place and enter each class we will give a input within the Main which will enter each class and within main we will do the story for the adventure. 
 
+## Class Diagram
+
+![classDiagram](https://github.com/DaCandyCorn/C-Text-Based-Adventure/blob/main/images/classDiagram.png)
+
 ## Scripts
 
 In the past
