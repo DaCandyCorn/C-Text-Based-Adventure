@@ -1,0 +1,14 @@
+The monarch of this setting has recently enacted laws heavily affecting the lower class. Leading to famine and death. Many in the lower class have gone mad, they are plotting a massacre that will overthrow the monarchy in a brutal bloodbath during the king's annual speech.  Your character can choose to help overthrow the monarchy or you can choose to speak to the king about the plans and spoil the rebellion. Or if you obtain the item hidden in the cellar you may assassinate the king yourself. Once you solve the conflict you will be transported back to the central hub
+ emerges from the wormholes in a dark alley inhabited only by rats and a lone man asleep on a stoop. The user has two options, leave the alley or speak to the man (void talk or void moveTo). If you interact with the man he will provide you with basic information about the world you are in (time period,location,etc). He will also tell you a small amount of information on this world's story.
+
+
+
+
+
+
+
+
+
+
+
+Carson Medsker, Park James, Aiden Harris, Jesse Stallings
