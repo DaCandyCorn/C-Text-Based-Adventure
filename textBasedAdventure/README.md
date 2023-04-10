@@ -24,11 +24,9 @@
 
 ###### Nash Hale
 
-The input you have to start with a certain line such as terminus that is to be decided
+The user will presented with a beginning story, leading them to decide their next move. To advance you will type moveTo (location) and to go back you will type the input moveBack (location). More text will be presented as well as various actions the user can take along the way.
 
-to go back one you do cd.. and to go back to the beginning you enter cd home
-
-Classes: We will have classes for each place and we may do more classes if the stories become complicated. We will have Victorian class, a Orthodox priest in europe class, a futruistic class, and a fantasy type era class with more classes for each story if needed. 
+Classes: We will have classes for each place and we may do more classes if the stories become complicated. We will have Victorian class, a Historical class, a Futruistic class, and a fantasy type era class if needed. 
 
 To go to each place and enter each class we will give a input within the Main which will enter each class and within main we will do the story for the adventure. 
 
