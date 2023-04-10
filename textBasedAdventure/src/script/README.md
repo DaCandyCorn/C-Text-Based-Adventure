@@ -28,7 +28,7 @@ Written By Carson Medsker
 
 STORY:   The monarch of this setting has recently enacted laws heavily affecting the lower class. Leading to famine and death. Many in the lower class have gone mad, they are plotting a massacre that will overthrow the monarchy in a brutal bloodbath during the king's annual speech.  Your character can choose to help overthrow the monarchy or you can choose to speak to the king about the plans and spoil the rebellion. Or if you obtain the item hidden in the cellar you may assassinate the king yourself, once you solve the conflict you will be transported back to the central hub
 
- (Input) emerges from the wormholes in a dark alley inhabited only by rats and a lone man asleep on a stoop. The user has two options, leave the alley or speak to the man (void talk or void moveTo). If you interact with the man he will provide you with basic information about the world you are in (time period,location,etc). He will also tell you a small amount of information on this world's story.
+ (Input) emerges from the wormholes in a dark alley inhabited only by rats and a lone man asleep on a stoop. The user has two options, leave the alley or speak to the man (void talk or void moveTo). You interact with the man he will provide you with basic information about the world you are in (time period,location,etc). He will also tell you a small amount of information on this world's story.
 
 (UPDATE PLAYER’S CHOICES - what they can do at the current moment)
 
@@ -36,9 +36,9 @@ When you leave the alley (use command moveTo street) you emerge onto a street wi
 
 (Left Decision) You approach the source of the light, it is a tavern with a sign hanging out front. The sign reads “The Kings Head” You have 3 options from this point, you can go back the way you came , you may enter the tavern or you can investigate the side alley(void move to), if you investigate the side alley you can enter the cellar to the tavern only if you have the key from the shopkeeper, inside the cellar you can find an important secret item (Guards Dagger)  once you exit it again leaves you with the choice to go back or to enter the tavern , if you enter the tavern you can interact with sus man. The sus man happens to be the leader of the resistance, he will tell you the resistances plan and you can choose to assist him or leave
 
-If you help the resistance you will be thrown in jail and your run will end 
+You help the resistance you will be thrown in jail and your run will end 
 
-If you leave you can go and tell the king of the resistance which will solve the world conflict and teleport you back but you won't save the people from the tyrant, however if you collected the blade from the cellar you are given the option to slay the king in the meeting solving the conflict with the good ending and teleporting you back through the wormhole ending the Victorian chapter
+When you leave you can go and tell the king of the resistance which will solve the world conflict and teleport you back but you won't save the people from the tyrant, however if you collected the blade from the cellar you are given the option to slay the king in the meeting solving the conflict with the good ending and teleporting you back through the wormhole ending the Victorian chapter
 
 
 ## Futuristic
@@ -67,12 +67,12 @@ You can now leave the room or check the desk drawer, within the desk drawer an e
 
 Inside of the right room the smell is faint but a new smell is much more pungent, the smell of explosives, this room is surprisingly clean  and is filled with ornate vintage furniture. In the corner an out of place metal cabinet is open, inside a plethora of explosives are sitting covered in dust, you can take the explosives
 
-If you go forward into the double door you will be caught by the death band and killed
+You go forward into the double door and get killed by the death band.
 
 You may now go back to the dock 
 You walk down the stairs, the desolate dock sprawled out in front of you, you see the dinghy you arrived in, you see the few fishing boats slowly bowing up and down with each wave. You then turn your attention to the cargo ship, after examining it you begin to notice the rust covering the sides, you notice many weak points that could cripple the ship if you had the explosives. You have a choice to go to the booth or go to the cargo ship
 
-If you go to the booth you peer through the window and see the mess inside, the furniture has been trashed scratches line the walls and an empty vial sits on the window seal 
+You go to the booth and  peer through the window and see the mess inside, the furniture has been trashed scratches line the walls and an empty vial sits on the window seal 
 
 When you go to the ship you have the option to plant explosives or leave on the dinghy if you leave on the dinghy  you exit the world without solving the issue or if you plant the explosives you can detonate the ship crippling the Death band supply line solving the world issue
 
