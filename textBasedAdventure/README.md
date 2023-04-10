@@ -55,6 +55,7 @@ Wormhole Transition to Dimension: While you go through the wormholes into other 
 
 
 ## Victorian
+Written By Carson Medsker
 
 STORY:   The monarch of this setting has recently enacted laws heavily affecting the lower class. Leading to famine and death. Many in the lower class have gone mad, they are plotting a massacre that will overthrow the monarchy in a brutal bloodbath during the king's annual speech.  Your character can choose to help overthrow the monarchy or you can choose to speak to the king about the plans and spoil the rebellion. Or if you obtain the item hidden in the cellar you may assassinate the king yourself, once you solve the conflict you will be transported back to the central hub
 
