@@ -39,3 +39,41 @@ When you leave the alley (use command moveTo street) you emerge onto a street wi
 If you help the resistance you will be thrown in jail and your run will end 
 
 If you leave you can go and tell the king of the resistance which will solve the world conflict and teleport you back but you won't save the people from the tyrant, however if you collected the blade from the cellar you are given the option to slay the king in the meeting solving the conflict with the good ending and teleporting you back through the wormhole ending the Victorian chapter
+
+
+## Futuristic
+
+Written By Carson Medsker
+
+Set  in the year 2101. Many major advancements in science and technology have allowed for a truly futuristic society, all of the past ideas people had about the future have come true, flying cars, teleportation, and some major advancements in time travel. However the two major advancements have allowed for the reversal of the climate change that ravaged the past, tech has allowed for zero carbon emissions from all major companies. The other major advancement has been the true advancement of medicine, with a cure for all types of cancer and even cures for Sexually transmitted diseases once believed to be untreatable, however with these incredible  advancements in medicine come some not so incredible after effects. A drug called Sanguine was discovered as an after effect of the development of the AIDS cure, Sanguine is known to give the user an all time high better than any hard drug on the market, its side effects however are extremely dangerous, aside from being highly addictive it is also known to cause a complete shift in personality. People have become very aggressive . One gang has been leading the distribution of this drug The Ivory Death Band. The only known distribution center is situated in the old warehouse district that has sat dormant since 2070.
+
+(Input)   awakens in the harbor of the warehouse district on a small dinghy. Cold and wet you stand up and look around. The harbor is empty save for a few fishing boats and one medium size cargo ship. A long set of zig zagging stairs leads over a small hill. A man in a booth near the stairs beckons you to come over.  (You can talk to the Man or head up the stairs)
+The Man tells you about the Death Band and how you are currently in their territory. He points to the lone cargo ship telling you that is where the Death Band heads their distribution. The Man doesn't seem right while you are talking to him.( You can now leave and head up the stairs or move to the cargo ship( This does nothing currently)
+
+When you head up the stairs a sprawling expanse of warehouse and storage units lie in front of you from this spot you can head to the “Store All” facility to the left or the decrepit looking warehouse to the right
+ 
+
+“Store All” within the facility you see 3 units that seem to have been left untouched by looters. Unit 33, Unit 38 and Unit 39.
+Within Unit 33  Has nothing but a stained mattress and a lamp
+Within Unit 38 you find a key with a faded number all you can make out is a 9
+Unit 39 is locked until you find the key hidden in 38, within you find a Death Band Holoscanner(This allows access to the warehouse)
+You can now go back to the previous decision
+
+Warehouse: If you do not have the holoscanner you can’t  enter the warehouse
+Once you have retrieved the scanner you may enter the locked door
+Once inside you enter into a long hallway that is surprisingly clean, however a distinct smell lingers. There are two single doors and one large double door at the end of the hallway. You hear talking and laughing emanating from the double doors so you decide that isn't the best place to go this leaves you with the choice of ( the left or right door)
+You enter through the left door and the smell is much stronger in this room. You look around and notice needles and vials littering the floor and furniture. You notice a desk in the corner also covered in vials, however the desk drawer appears to be open
+You can now leave the room or check the desk drawer, within the desk drawer an elegant watch sits in a box, you can take the watch
+
+Inside of the right room the smell is faint but a new smell is much more pungent, the smell of explosives, this room is surprisingly clean  and is filled with ornate vintage furniture. In the corner an out of place metal cabinet is open, inside a plethora of explosives are sitting covered in dust, you can take the explosives
+
+If you go forward into the double door you will be caught by the death band and killed
+
+You may now go back to the dock 
+You walk down the stairs, the desolate dock sprawled out in front of you, you see the dinghy you arrived in, you see the few fishing boats slowly bowing up and down with each wave. You then turn your attention to the cargo ship, after examining it you begin to notice the rust covering the sides, you notice many weak points that could cripple the ship if you had the explosives. You have a choice to go to the booth or go to the cargo ship
+
+If you go to the booth you peer through the window and see the mess inside, the furniture has been trashed scratches line the walls and an empty vial sits on the window seal 
+
+When you go to the ship you have the option to plant explosives or leave on the dinghy if you leave on the dinghy  you exit the world without solving the issue or if you plant the explosives you can detonate the ship crippling the Death band supply line solving the world issue
+
+
