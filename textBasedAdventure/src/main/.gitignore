@@ -1,0 +1,11 @@
+*.obj
+*.pdb
+*.ilk
+*.exe
+main
+main-debug
+.replit
+*.nix
+*.o
+
+
