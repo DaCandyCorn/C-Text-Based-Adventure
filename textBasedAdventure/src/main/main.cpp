@@ -44,6 +44,8 @@ int main() {
   }
   
   gameEnd = false;
+   dagger = false;
+   key = false;
   cout << "Welcome to Text Based Adventure! Type your character's name now... "
           "\n";
   cin >> characterName;
@@ -77,10 +79,10 @@ int main() {
           vic.moveBack();
           cout << victorian[vic.v] << endl;
         } else if (input.substr(0, 10) == "pickup key") {
-          cout << "You have picked up the key" << endl;
+          cout << "You have picked up the key (move to 1/2)" << endl;
           key = true;
         } else if (input.substr(0, 13) == "pickup dagger") {
-          cout << "You have picked up the dagger" << endl;
+          cout << "You have picked up the dagger (move back)" << endl;
           dagger = true;
         } else if (input.substr(0, 4) == "help") {
           vic.help();
@@ -88,31 +90,37 @@ int main() {
         } else if (input.substr(0, 7) == "move to") {
           inputTwo = input.substr(7, 8);
           inp = stoi(inputTwo);
-          if (vic.v >= 0 && vic.v < 8) {
-            vic.moveTo(inp);
-            cout << victorian[vic.v] << endl;
-          } else if (vic.v == 8 && key == true) {
+           if (vic.v == 8 && key == true) {
             vic.moveTo(inp);
             cout << victorian[vic.v] << endl;
           } else if (vic.v == 8 && key == false) {
             cout << "You can't move here because you don't have the key. You "
                     "must move back now."
                  << endl;
-          } else if (vic.v == 10) {
-            gameEnd = true;
-          } else if ((vic.v == 11 && dagger == true)) {
+          } else if (vic.v == 7 && inp ==1) {
             vic.moveTo(inp);
             cout << victorian[vic.v] << endl;
             gameEnd = true;
-          } else if ((vic.v == 11 && dagger == false) && inp == 2) {
+            
+          } else if (vic.v == 11 && dagger == true && inp ==2) {
+            vic.moveTo(inp);
+            cout << victorian[vic.v] << endl;
+            gameEnd = true;
+            break;
+          } else if (vic.v == 11 && dagger == false && inp == 2) {
             cout << "You can't kill the king because you don't have the "
                     "dagger. You "
                     "must move back now and assist the king."
                  << endl;
             cout << victorian[vic.v] << endl;
-          } else if ((vic.v == 11 && dagger == false) && inp == 1) {
+          } else if (vic.v == 11 && inp == 1) {
             vic.moveTo(inp);
+            cout << victorian[vic.v] << endl;
             gameEnd = true;
+            break;
+          } else {
+            vic.moveTo(inp);
+            cout << victorian[vic.v] << endl;
           }
         }
       }
@@ -120,8 +128,9 @@ int main() {
     } else {
       cout << "error" << endl;
     }
-    getline(cin, travelInput);
-  } else if ((travelInput == "Futuristic") || (travelInput == "futuristic")) {
+    cin >> travelInput;
+  } 
+   if ((travelInput == "Futuristic") || (travelInput == "futuristic")) {
 
     cout << futuristic[0] << endl;
     if (future.v < futuristic.size()) {

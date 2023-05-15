@@ -6,7 +6,7 @@ public:
 
 int f;
   int h;
-  int v;
+  int v = 0;
   int mb;
   void enter(); // used at the beginning of the game, when the Victorian theme
                 // is selected
