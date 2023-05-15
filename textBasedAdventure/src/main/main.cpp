@@ -164,63 +164,6 @@ int main() {
       cout << "error" << endl;
     }
 
-    // } else if (vic.v == 8 && key == true) {
-    //   vic.moveTo(inp);
-    //   cout << futuristic[vic.v] << endl;
-    // } else if (vic.v == 8 && key == false) {
-    //   cout << "You can't move here because you don't have the key. You "
-    //           "must move back now."
-    //        << endl;
-    // } else if (vic.v == 10) {
-    //   gameEnd = true;
-    // } else if ((vic.v == 11 && dagger == true)) {
-    //   vic.moveTo(inp);
-    //   cout << futuristic[vic.v] << endl;
-    //   gameEnd = true;
-    // } else if ((vic.v == 11 && dagger == false) && inp ==2 ) {
-    //   cout << "You can't kill the king because you don't have the "
-    //           "dagger. You "
-    //           "must move back now and assist the king."
-    //        << endl;
-    //   cout << futuristic[vic.v]<< endl;
-    // } else if ((vic.v == 11 && dagger == false) && inp ==1 ) {
-    //   vic.moveTo(inp);
-    //   gameEnd = true;
-    // }
-
-    // cout << futuristic[0] << endl;
-    // if (vic.v < victorian.size()) {
-    //   vic.moveTo(1);
-    //   cout << characterName + victorian[vic.v] << endl;
-    //   while (vic.v < 15) {
-    //     getline(cin, input);
-    //     for (int x = 0; x < input.length(); x++) {
-    //       towlower(input[x]);
-    //     }
-
-    //     if (input.substr(0, 7) == "move to") {
-    //       inputTwo = input.substr(7, 8);
-    //       inp = stoi(inputTwo);
-    //       if (inp <= vic.h) {
-    //         cout << inp;
-    //         vic.moveTo(inp);
-    //         cout << victorian[vic.v] << endl;
-    //       } else {
-    //         cout << "not a viable pathway" << endl;
-    //       }
-    //     } else if (input.substr(0, 9) == "move back") {
-    //       vic.moveBack();
-    //       cout << victorian[vic.v] << endl;
-    //     } else if (input.substr(0, 3) == "help") {
-    //       vic.help();
-    //       cout << victorian[vic.v] << endl;
-    //     } else if (input.substr(0, 6) == "pickup") {
-    //     }
-    //   }
-
-    // } else {
-    //   cout << "error" << endl;
-    // }
 
   } else if (travelInput == "1900s") {
     // history.enter();
