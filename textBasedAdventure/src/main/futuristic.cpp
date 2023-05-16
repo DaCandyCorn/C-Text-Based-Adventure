@@ -9,9 +9,9 @@ void Futuristic::moveTo(int m) {
   
 if (v>=0 && v<=3) {
   v+=m;
-} else if (v ==4) {
+} else if (v ==4 || v ==6 || v ==8 || v ==9 || v == 10 || v ==11) {
   v+=m;
-}else {
+} else {
   m +=1 ;
   v+=m;
 }
