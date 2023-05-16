@@ -3,21 +3,21 @@
 #include <fstream>
 
 
-void Historical::enter() {
-  // Input a Historical theme script to get information and choices from
-}
-void Historical::moveTo() {
+void Historical::moveTo(int m) {
   // set variable to greater to move forward in script
+
+  m+=1;
+v+=m;
+  mb = m;
 }
-void Historical::moveBack() {
-  // set variable to less than to backwards in script
+void Historical::moveBack() { 
+  v -= mb; 
+  }
+void Historical::help() {
+  mb = 14 - v;
+  v = 14;
 }
-void Historical::talk() {
-  // Input a Historical theme script to get information and choices from a npc
-}
-void Historical::use() {
-  // Use an item in the user's inventory
-}
+
 void Historical::pickUp() {
   // User interacts or picks up an item that is available
 }

@@ -9,3 +9,4 @@ You awake in a dark room with a roaring fire being the only source of light. The
 (4:1 Kill Guard) You take the steak knife and attack the guard. He grunts but has no fight in him after you pull him back to be unseen. You may now move to the truck unseen.
 (4:2 Move to Truck) You make a run for the truck but the guard spots you and shoots you GAME OVER
 (5:1 Truck Unseen) You make a move for the truck without anyone seeing you. You enter the truck and drive off with the prisoners to safety. After the prisoners thank you and a wormhole appears ending the game 
+To move forward enter "move to" space then answer to where you want to go using number values. Everything is in order, if you want to go to the first choice enter the value of 1 or the second place enter the value of 2 and so on. To move back simply enter "move back". to pick up enter "pickup" then what you want to pick up. These will be saved for later. To use an object simply enter "use" then the object. 

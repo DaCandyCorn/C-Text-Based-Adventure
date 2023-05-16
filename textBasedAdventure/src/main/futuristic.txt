@@ -12,3 +12,4 @@ Set in the year 2101. Many major advancements in science and technology have all
 (5:2) When you go to the ship you have the option to plant explosives or leave on the dinghy 
 (6:1) you leave on the dinghy you exit the world and are crushed as you emerge into the wormhole. 
 (6:2)you detonate the ship crippling the Death band supply line solving the world issue.
+To move forward enter "move to" space then answer to where you want to go using number values. Everything is in order, if you want to go to the first choice enter the value of 1 or the second place enter the value of 2 and so on. To move back simply enter "move back". to pick up enter "pickup" then what you want to pick up. These will be saved for later. To use an object simply enter "use" then the object. 
