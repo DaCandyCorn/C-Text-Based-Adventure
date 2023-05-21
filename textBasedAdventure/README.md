@@ -1,4 +1,4 @@
-# C-Text-Based-Adventure
+# C++ Text Based Adventure Game
 
 ## Roles 
 
