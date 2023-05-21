@@ -24,7 +24,7 @@
 
 ## Active Gameplay
 
-![gameplay]((https://github.com/DaCandyCorn/C-Text-Based-Adventure/blob/main/images/textBasedAdvRunning.png)
+![gameplay](https://github.com/DaCandyCorn/C-Text-Based-Adventure/blob/main/images/textBasedAdvRunning.png)
 
 ## Overview
 
